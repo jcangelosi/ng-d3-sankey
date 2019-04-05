@@ -1,0 +1,370 @@
+{
+  "nodes": [
+    {
+      "node": 0,
+      "name": "Telecentro (F)"
+    },
+    {
+      "node": 1,
+      "name": "Telefonica"
+    },
+    {
+      "node": 2,
+      "name": "Telecom"
+    },
+    {
+      "node": 3,
+      "name": "Otro (F)"
+    },
+    {
+      "node": 4,
+      "name": "No Posee (F)"
+    },
+    {
+      "node": 5,
+      "name": "Telecentro (I)"
+    },
+    {
+      "node": 6,
+      "name": "Speedy"
+    },
+    {
+      "node": 7,
+      "name": "Fibertel"
+    },
+    {
+      "node": 8,
+      "name": "Arnet"
+    },
+    {
+      "node": 9,
+      "name": "Otro (I)"
+    },
+    {
+      "node": 10,
+      "name": "Movistar"
+    },
+    {
+      "node": 11,
+      "name": "Personal"
+    },
+    {
+      "node": 12,
+      "name": "Claro"
+    },
+    {
+      "node": 13,
+      "name": "Nextel"
+    },
+    {
+      "node": 14,
+      "name": "No Posee (M)"
+    },
+    {
+      "node": 15,
+      "name": "Otro (M)"
+    },
+    {
+      "node": 16,
+      "name": "Telecentro (TV)"
+    },
+    {
+      "node": 17,
+      "name": "Cablevision"
+    },
+    {
+      "node": 18,
+      "name": "DirecTV"
+    },
+    {
+      "node": 19,
+      "name": "No Posee (TV)"
+    },
+    {
+      "node": 20,
+      "name": "Otro (TV)"
+    },
+    {
+      "node": 21,
+      "name": "Telecentro Play"
+    },
+    {
+      "node": 22,
+      "name": "Flow"
+    },
+    {
+      "node": 23,
+      "name": "Cablevision Play"
+    },
+    {
+      "node": 24,
+      "name": "Netflix"
+    },
+    {
+      "node": 25,
+      "name": "HBO GO"
+    },
+    {
+      "node": 26,
+      "name": "Claro Video"
+    },
+    {
+      "node": 27,
+      "name": "DirecTV Play"
+    },
+    {
+      "node": 28,
+      "name": "Otro (TVE)"
+    },
+    {
+      "node": 29,
+      "name": "Otro (SVOD)"
+    },
+    {
+      "node": 30,
+      "name": "Youtube Videoclips"
+    },
+    {
+      "node": 31,
+      "name": "Google Play Musica"
+    },
+    {
+      "node": 32,
+      "name": "Spotify"
+    },
+    {
+      "node": 33,
+      "name": "Deezer"
+    },
+    {
+      "node": 34,
+      "name": "Claro Musica"
+    },
+    {
+      "node": 35,
+      "name": "Otro (Musica)"
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 5,
+      "value": 10
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 10
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "value": 10
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "value": 10
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "value": 5
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "value": 10
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "value": 10
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "value": 10
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "value": 10
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "value": 10
+    },
+    {
+      "source": 5,
+      "target": 10,
+      "value": 20
+    },
+    {
+      "source": 6,
+      "target": 11,
+      "value": 5
+    },
+    {
+      "source": 6,
+      "target": 12,
+      "value": 5
+    },
+    {
+      "source": 7,
+      "target": 12,
+      "value": 5
+    },
+    {
+      "source": 7,
+      "target": 13,
+      "value": 5
+    },
+    {
+      "source": 8,
+      "target": 14,
+      "value": 5
+    },
+    {
+      "source": 9,
+      "target": 15,
+      "value": 20
+    },
+    {
+      "source": 10,
+      "target": 20,
+      "value": 20
+    },
+    {
+      "source": 11,
+      "target": 19,
+      "value": 10
+    },
+    {
+      "source": 11,
+      "target": 16,
+      "value": 5
+    },
+    {
+      "source": 12,
+      "target": 17,
+      "value": 10
+    },
+    {
+      "source": 13,
+      "target": 18,
+      "value": 10
+    },
+    {
+      "source": 14,
+      "target": 20,
+      "value": 10
+    },
+    {
+      "source": 16,
+      "target": 29,
+      "value": 5
+    },
+    {
+      "source": 16,
+      "target": 28,
+      "value": 5
+    },
+    {
+      "source": 16,
+      "target": 21,
+      "value": 5
+    },
+    {
+      "source": 16,
+      "target": 22,
+      "value": 5
+    },
+    {
+      "source": 17,
+      "target": 27,
+      "value": 5
+    },
+    {
+      "source": 18,
+      "target": 26,
+      "value": 5
+    },
+    {
+      "source": 18,
+      "target": 29,
+      "value": 5
+    },
+    {
+      "source": 18,
+      "target": 21,
+      "value": 5
+    },
+    {
+      "source": 19,
+      "target": 25,
+      "value": 5
+    },
+    {
+      "source": 19,
+      "target": 24,
+      "value": 5
+    },
+    {
+      "source": 20,
+      "target": 23,
+      "value": 5
+    },
+    {
+      "source": 21,
+      "target": 33,
+      "value": 5
+    },
+    {
+      "source": 22,
+      "target": 35,
+      "value": 5
+    },
+    {
+      "source": 23,
+      "target": 34,
+      "value": 5
+    },
+    {
+      "source": 24,
+      "target": 31,
+      "value": 5
+    },
+    {
+      "source": 25,
+      "target": 30,
+      "value": 5
+    },
+    {
+      "source": 26,
+      "target": 35,
+      "value": 5
+    },
+    {
+      "source": 26,
+      "target": 31,
+      "value": 5
+    },
+    {
+      "source": 26,
+      "target": 32,
+      "value": 5
+    },
+    {
+      "source": 27,
+      "target": 33,
+      "value": 5
+    },
+    {
+      "source": 28,
+      "target": 33,
+      "value": 5
+    }
+  ]
+}
